@@ -1,5 +1,5 @@
 
-# SimpleAllocator
+# Custom Simple Allocator
 
 A minimal custom C++ memory allocator that plugs into the STL and demonstrates how allocation, deallocation, construction, and destruction work under the hood.  
 
